@@ -5,6 +5,6 @@ This project was made by me and my friends in college as a small demonstration o
 2. add a new edit configuration and choose application
 3. choose your jdk version
 4. then click modify options and tick add vm options
-5. in the add vm options text box paste this line --module-path "**the path of your jdk lib**" --add-modules javafx.controls,javafx.fxml
+5. in the add vm options text box paste this line: --module-path "**the path of your jdk lib**" --add-modules javafx.controls,javafx.fxml
 6. in the main class text box type Controllers.Main  
 
